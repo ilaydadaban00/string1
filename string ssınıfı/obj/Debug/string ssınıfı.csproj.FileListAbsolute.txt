@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string ssınıfı.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string ssınıfı.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string_ssınıfı.Form1.resources
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string_ssınıfı.Properties.Resources.resources
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string ssınıfı.csproj.GenerateResource.cache
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string ssınıfı.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\bin\Debug\string ssınıfı.exe.config
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\bin\Debug\string ssınıfı.exe
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\bin\Debug\string ssınıfı.pdb
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string ssınıfı.exe
+C:\Users\User\source\repos\string ssınıfı\string ssınıfı\obj\Debug\string ssınıfı.pdb
